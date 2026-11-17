@@ -3,4 +3,8 @@ print(n)
 
 print(10+30)
 
+
 print (00)
+
+print (100 + 30)
+
